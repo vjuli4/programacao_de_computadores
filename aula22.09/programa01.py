@@ -1,0 +1,5 @@
+print("Primeiro Programa!")
+nome=input()
+idade=int(input())
+preco=float(input())
+print("Olá, meu nome é",nome, ", tenho",idade, "anos , e tenho", preco, " na conta.")
